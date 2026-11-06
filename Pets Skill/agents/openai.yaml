@@ -1,0 +1,7 @@
+interface:
+  display_name: "Pets Skill"
+  short_description: "Create and activate an animated virtual pet from a reference image"
+  default_prompt: "Use $pets-skill to turn this reference image into an animated virtual pet."
+policy:
+  allow_implicit_invocation: true
+
